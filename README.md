@@ -1,7 +1,7 @@
-sbrys
+Ôªøsbrys
 =====
 
 This repository is for my test projects.
 
 Best Regards,
-S≥awomir Bryú
+S≈Çawomir Bry≈õ
